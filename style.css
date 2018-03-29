@@ -1,0 +1,25 @@
+#wrapper{
+    background-color:orangered;
+    width:970px;
+    height:900px;
+    margin: 0 auto;
+}
+h1{
+    font-size:200%;
+    padding:10px;
+    text-align: center;
+}
+table{
+    width:100%
+}
+th{
+    font-weight:bold;
+    text-align:center;
+    border: solid black 1px;
+    padding:4px;
+}
+td{
+    color:blue;
+    text-align:center;
+    padding:2px;
+}
